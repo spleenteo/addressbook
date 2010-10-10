@@ -1,3 +1,12 @@
+FORK SPLEENTEO TODO
+--------------
+* convert app to rails3
+* create an export to CVS
+* create an import from CVS
+* add company name
+* add notes to contact
+
+
 Enhancements
 ------------
 * Allow user to select font color, size, weight, and alignment for labels
